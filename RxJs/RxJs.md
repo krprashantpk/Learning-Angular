@@ -1,6 +1,6 @@
-# RxJs- [RxJs](#rxjs)
+# RxJs
 
-- [RxJs- RxJs](#rxjs--rxjs)
+- [RxJs](#rxjs)
   - [Observable](#observable)
     - [Pull versus Push](#pull-versus-push)
       - [What is Pull?](#what-is-pull)
